@@ -1,0 +1,80 @@
+///place served by transport hub
+///mountain range
+///religion
+///participating team
+///contains administrative territorial entity
+///head of government
+///country of citizenship
+///original network
+///heritage designation
+///performer
+///participant of
+///position held
+///has part
+///location of formation
+///located on terrain feature
+///architect
+///country of origin
+///publisher
+///director
+///father
+///developer
+///military branch
+///mouth of the watercourse
+///nominated for
+///movement
+///successful candidate
+///followed by
+///manufacturer
+///instance of
+///after a work by
+///member of political party
+///licensed to broadcast to
+///headquarters location
+///sibling
+///instrument
+///country
+///occupation
+///residence
+///work location
+///subsidiary
+///participant
+///operator
+///characters
+///occupant
+///genre
+///operating system
+///owned by
+///platform
+///tributary
+///winner
+///said to be the same as
+///composer
+///league
+///record label
+///distributor
+///screenwriter
+///sports season of league or competition
+///taxon rank
+///location
+///field of work
+///language of work or name
+///applies to jurisdiction
+///notable work
+///located in the administrative territorial entity
+///crosses
+///original language of work
+///competition class
+///part of
+///sport
+///constellation
+///position played on team / speciality
+///located in or next to body of water
+///voice type
+///follows
+///spouse
+///military rank
+///mother
+///member of
+///child
+///main subject
