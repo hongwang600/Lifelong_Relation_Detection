@@ -277,7 +277,6 @@ if __name__ == '__main__':
     start_time = time.time()
     all_results = []
     result_all_test_data = []
-    all_embed_diff = []
     for i in range(sequence_times):
         shuffle_index = list(range(num_clusters))
         random_seed = int(sys.argv[1]) + 100*i
@@ -290,7 +289,6 @@ if __name__ == '__main__':
             to_use_embed)
         all_results.append(sequence_results)
         result_all_test_data.append(result_whole_test)
-        all_embed_diff.append(embed_diff_result)
     avg_result_all_test = np.average(result_all_test_data, 0)
     for result_whole_test in result_all_test_data:
         print_list(result_whole_test)
